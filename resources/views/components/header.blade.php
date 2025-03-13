@@ -1,6 +1,6 @@
 <!-- Header -->
 <header class="bg-white fixed w-full z-1 shadow-md top-0">
-    <div class="flex items-center justify-between px-6 py-4">
+    <div class="flex items-center justify-evenly px-6 py-4">
         <div class="flex items-center space-x-4">
             <h1 class="flex items-center justify-center text-xl font-semibold text-gray-500">
                 <span class="text-blue-500">
